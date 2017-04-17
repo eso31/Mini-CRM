@@ -1,0 +1,65 @@
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\ApplicationInsights.config
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\csc.exe
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\vbc.exe
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Mini CRM.dll.config
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Mini CRM.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Mini CRM.pdb
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Antlr3.Runtime.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\EntityFramework.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\EntityFramework.SqlServer.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.Web.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Newtonsoft.Json.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.Helpers.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.Mvc.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.Optimization.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.Razor.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.WebPages.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\WebGrease.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\EntityFramework.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\EntityFramework.SqlServer.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.Web.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.Helpers.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.Mvc.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.Optimization.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.Razor.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.WebPages.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Antlr3.Runtime.pdb
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\bin\Newtonsoft.Json.xml
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\obj\Debug\Mini CRM.dll
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\obj\Debug\Mini CRM.pdb
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\obj\Debug\Mini CRM.csprojResolveAssemblyReference.cache
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\obj\Debug\Mini_CRM.Migrations.InitialCreate.resources
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\obj\Debug\Mini CRM.csproj.GenerateResource.Cache
+C:\Users\Dilan\Documents\Visual Studio 2015\Projects\Mini CRM\Mini CRM\obj\Debug\Mini_CRM.Migrations.phonechanged.resources
+C:\Users\Dilan\documents\visual studio 2015\Projects\Mini CRM\Mini CRM\obj\Debug\Mini_CRM.Migrations.ContactIdadded.resources
+C:\Users\Dilan\documents\visual studio 2015\Projects\Mini CRM\Mini CRM\bin\Markdown.dll
+C:\Users\Dilan\documents\visual studio 2015\Projects\Mini CRM\Mini CRM\bin\CommonMark.dll
+C:\Users\Dilan\documents\visual studio 2015\Projects\Mini CRM\Mini CRM\bin\CommonMark.pdb
+C:\Users\Dilan\documents\visual studio 2015\Projects\Mini CRM\Mini CRM\bin\CommonMark.xml
